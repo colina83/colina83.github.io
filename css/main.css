@@ -1,9 +1,4 @@
- body {
-    margin: 0;
-    padding: 0;
-    background: #F0F0F0;
-
-  #button {
+ .button {
     background-color: #0074D9;
     border: none;
     padding: 15px 32px;
@@ -17,7 +12,7 @@
     font-family: "Courier New", Courier, monospace;           
     }
 
-  #center{
+  .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -25,7 +20,17 @@
     height: auto;
    
 
-  }
+  } 
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #F0F0F0;
+
+
   .container{
     position: absolute;
     top: 80%;
