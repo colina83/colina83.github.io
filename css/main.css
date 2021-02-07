@@ -13,7 +13,7 @@ body {
     text-decoration: none;
     color: #FFFFFF;
     display: inline-block;
-    font-size: 25px;
+    font-size: 20px;
     margin: 15px 15px;
     cursor: pointer;
     border-radius: 4px;
@@ -47,7 +47,7 @@ body {
     color: #000000;
     font-family: "Courier New", Courier, monospace;
     font-weight: lighter;
-    font-size: 25px;
+    font-size: 20px;
     text-indent: 5em;
 
   }
@@ -56,7 +56,7 @@ body {
     color: #000000;
     font-family: "Courier New", Courier, monospace;
     font-weight: lighter;
-    font-size: 18px;
+    font-size: 15px;
 
   }
 
