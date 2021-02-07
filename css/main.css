@@ -1,4 +1,4 @@
- .button {
+ button {
     background-color: #0074D9;
     border: none;
     padding: 15px 32px;
@@ -12,7 +12,7 @@
     font-family: "Courier New", Courier, monospace;           
     }
 
-  .center{
+  center{
     display: block;
     margin-left: auto;
     margin-right: auto;
